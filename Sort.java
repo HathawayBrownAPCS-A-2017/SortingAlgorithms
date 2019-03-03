@@ -37,7 +37,7 @@ public class Sort
     
     // Sort a list of Strings
     // initialize array
-    String[] names = {"Margaret", "Halle", "Brice", "Kate", "Rebecca", "August"};
+    String[] names = {"Linda", "Kim", "Ella", "Angela", "Ryan", "Katrina", "Margaret", "Kat", "Emily", "Patty"};
     
     // print array; sort; print again
     for (String s : names) 
